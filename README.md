@@ -38,5 +38,5 @@ Para executar os testes, assegure-se de ter [Node.js](https://nodejs.org/) insta
 
 ```bash
 npm install
-npm run test
+npm test
 ```
