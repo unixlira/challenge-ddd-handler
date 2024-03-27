@@ -40,3 +40,5 @@ Para executar os testes, assegure-se de ter [Node.js](https://nodejs.org/) insta
 npm install
 npm test
 ```
+![image](https://github.com/unixlira/challenge-ddd-handler/assets/22614594/8af40bca-d23c-49a4-8045-c1f247161a0c)
+
